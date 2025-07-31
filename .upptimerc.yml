@@ -25,7 +25,11 @@ sites:
 
   - name: Tram Backup 2
     url: https://tram-phap.deno.dev
-
+    
+ci:
+  schedule: "*/5 * * * *"
+  commitMessage: "🟢 Uptime check"
+  
 status-website:
   baseUrl: /phap-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
