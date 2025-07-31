@@ -20,18 +20,18 @@ sites:
   - name: Tram Tiiny
     url: https://tangphap.tiiny.site
 
-  - name: Tram Deno 2
-    url: https://tram-phap.deno.dev # Nếu khác Deno chính, đổi tên
+  - name: Tram Backup 1
+    url: https://tram-phap.deno.dev
 
-  - name: Tram Backup
-    url: https://tram-phap.deno.dev # Có thể là site dự phòng hoặc sửa link khác
+  - name: Tram Backup 2
+    url: https://tram-phap.deno.dev
 
 status-website:
   baseUrl: /phap-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Trạng Thái Pháp
-  introTitle: "**phap-status** là hệ thống theo dõi các Trạm Pháp – dùng GitHub Actions để ping toàn cầu."
-  introMessage: Tình trạng cập nhật tự động qua GitHub Pages – không cần máy chủ. [**Xem nguồn tại đây**](https://github.com/nammoadidaphat2025/phap-status)
+  introTitle: "**phap-status** là hệ thống theo dõi các Trạm Pháp – tự động cập nhật qua GitHub Actions."
+  introMessage: Dùng GitHub để theo dõi 8 trạm pháp toàn cầu. Không cần server, hoàn toàn miễn phí. [**Xem GitHub**](https://github.com/nammoadidaphat2025/phap-status)
   navbar:
     - title: Trạng Thái
       href: /
