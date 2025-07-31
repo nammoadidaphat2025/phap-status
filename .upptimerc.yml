@@ -1,7 +1,7 @@
 owner: nammoadidaphat2025
 repo: phap-status
 
-sites:
+sites: 
   - name: Tram Deno
     url: https://tram-phap.deno.dev
 
