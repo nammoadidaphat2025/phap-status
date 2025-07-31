@@ -19,15 +19,9 @@ sites:
 
   - name: Tram Tiiny
     url: https://tangphap.tiiny.site
-
-  - name: Tram Backup 1
-    url: https://tram-phap.deno.dev
-
-  - name: Tram Backup 2
-    url: https://tram-phap.deno.dev
     
 ci:
-  schedule: "*/5 * * * *"
+  schedule: "*/30 * * * *"
   commitMessage: "🟢 Uptime check"
   
 status-website:
