@@ -17,7 +17,7 @@
 name: Setup CI
 on:
   schedule:
-    - cron: '*/30 * * * *'  # mỗi 30 phút tự động ping
+    - cron: '*/5 * * * *'
   push:
     paths:
       - ".upptimerc.yml"
