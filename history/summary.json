@@ -94,17 +94,19 @@
     "url": "https://tangphap.tiiny.site",
     "icon": "https://icons.duckduckgo.com/ip3/tangphap.tiiny.site.ico",
     "slug": "tram-tiiny",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 467,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
-    "dailyMinutesDown": {}
+    "time": 631,
+    "timeDay": 673,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
+    "dailyMinutesDown": {
+      "2025-08-06": 0
+    }
   }
 ]
