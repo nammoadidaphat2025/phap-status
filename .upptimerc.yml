@@ -17,8 +17,8 @@ sites:
   - name: Tram GitHub
     url: https://nammoadidaphat2025.github.io/phap-data
 
-  - name: Tram Tiiny
-    url: https://tangphap.tiiny.site
+  - name: Tram App Script google
+    url: https://script.google.com/macros/s/AKfycbw2MG8_SUw1dktUmXq-ST_yU80Gy0O2mF8yj3uq417sHQ_3WszrehjvCw86hClT3eY6/exec
     
 ci:
   schedule: "*/30 * * * *"
