@@ -94,17 +94,19 @@
     "url": "https://script.google.com/macros/s/AKfycbw2MG8_SUw1dktUmXq-ST_yU80Gy0O2mF8yj3uq417sHQ_3WszrehjvCw86hClT3eY6/exec",
     "icon": "https://icons.duckduckgo.com/ip3/script.google.com.ico",
     "slug": "tram-app-script-google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1433,
-    "timeDay": 656,
-    "timeWeek": 943,
-    "timeMonth": 1433,
-    "timeYear": 1433,
-    "dailyMinutesDown": {}
+    "time": 1383,
+    "timeDay": 418,
+    "timeWeek": 867,
+    "timeMonth": 1383,
+    "timeYear": 1383,
+    "dailyMinutesDown": {
+      "2025-08-28": 0
+    }
   }
 ]
