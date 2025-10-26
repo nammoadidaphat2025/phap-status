@@ -22,7 +22,7 @@
     "url": "https://phapgalaxy.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/phapgalaxy.netlify.app.ico",
     "slug": "tram-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 239,
     "timeMonth": 178,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-26": 0
+    }
   },
   {
     "name": "Tram Cloudflare",
