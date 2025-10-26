@@ -22,19 +22,19 @@
     "url": "https://phapgalaxy.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/phapgalaxy.netlify.app.ico",
     "slug": "tram-netlify",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 95,
-    "timeWeek": 239,
-    "timeMonth": 178,
-    "timeYear": 158,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 159,
+    "timeDay": 173,
+    "timeWeek": 240,
+    "timeMonth": 180,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-10-26": 0
+      "2025-10-26": 22
     }
   },
   {
