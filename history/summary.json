@@ -42,19 +42,19 @@
     "url": "https://nammoadidaphat.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nammoadidaphat.pages.dev.ico",
     "slug": "tram-cloudflare",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "90.44%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "89.66%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.91%",
-    "time": 154,
-    "timeDay": 95,
-    "timeWeek": 145,
-    "timeMonth": 147,
-    "timeYear": 154,
+    "time": 153,
+    "timeDay": 98,
+    "timeWeek": 142,
+    "timeMonth": 146,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-11-18": 138
+      "2025-11-18": 149
     }
   },
   {
