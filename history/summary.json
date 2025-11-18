@@ -42,18 +42,20 @@
     "url": "https://nammoadidaphat.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nammoadidaphat.pages.dev.ico",
     "slug": "tram-cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 165,
-    "timeWeek": 177,
-    "timeMonth": 155,
-    "timeYear": 156,
-    "dailyMinutesDown": {}
+    "time": 155,
+    "timeDay": 105,
+    "timeWeek": 160,
+    "timeMonth": 151,
+    "timeYear": 155,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Tram Firebase",
