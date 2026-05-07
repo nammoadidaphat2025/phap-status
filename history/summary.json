@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 205,
-    "timeWeek": 264,
-    "timeMonth": 279,
-    "timeYear": 444,
+    "time": 443,
+    "timeDay": 220,
+    "timeWeek": 212,
+    "timeMonth": 269,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 236,
-    "timeWeek": 305,
-    "timeMonth": 288,
+    "timeDay": 420,
+    "timeWeek": 276,
+    "timeMonth": 301,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-10-26": 22
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 140,
-    "timeDay": 100,
-    "timeWeek": 96,
-    "timeMonth": 107,
+    "timeDay": 56,
+    "timeWeek": 94,
+    "timeMonth": 104,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-11-18": 138
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 87,
-    "timeWeek": 140,
-    "timeMonth": 127,
-    "timeYear": 137,
+    "time": 138,
+    "timeDay": 490,
+    "timeWeek": 186,
+    "timeMonth": 139,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 169,
-    "timeDay": 171,
-    "timeWeek": 191,
-    "timeMonth": 166,
-    "timeYear": 169,
+    "time": 170,
+    "timeDay": 249,
+    "timeWeek": 192,
+    "timeMonth": 165,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2025-12-24": 37
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 998,
-    "timeDay": 755,
-    "timeWeek": 827,
-    "timeMonth": 866,
-    "timeYear": 998,
+    "time": 997,
+    "timeDay": 814,
+    "timeWeek": 791,
+    "timeMonth": 864,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2025-11-19": 72,
       "2025-11-13": 28,
