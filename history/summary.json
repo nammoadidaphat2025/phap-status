@@ -4,18 +4,20 @@
     "url": "https://tram-phap.deno.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tram-phap.deno.dev.ico",
     "slug": "tram-deno",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 324,
-    "timeWeek": 442,
-    "timeMonth": 365,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "time": 417,
+    "timeDay": 180,
+    "timeWeek": 391,
+    "timeMonth": 355,
+    "timeYear": 417,
+    "dailyMinutesDown": {
+      "2026-07-23": 0
+    }
   },
   {
     "name": "Tram Netlify",
