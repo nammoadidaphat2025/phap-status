@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tram-phap.deno.dev.ico",
     "slug": "tram-deno",
     "status": "down",
-    "uptime": "76.14%",
+    "uptime": "75.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.34%",
+    "uptimeYear": "69.08%",
     "time": 373,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 233,
+    "timeMonth": 242,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2026-11-12": 286,
+      "2026-11-13": 237,
+      "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
@@ -143,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 289,
-    "timeDay": 472,
-    "timeWeek": 465,
-    "timeMonth": 473,
+    "timeDay": 365,
+    "timeWeek": 445,
+    "timeMonth": 468,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2026-05-08": 115,
@@ -164,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 145,
-    "timeDay": 265,
-    "timeWeek": 245,
-    "timeMonth": 211,
-    "timeYear": 142,
+    "time": 146,
+    "timeDay": 442,
+    "timeWeek": 295,
+    "timeMonth": 214,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2025-11-18": 138
     }
@@ -185,8 +186,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 381,
-    "timeWeek": 181,
+    "timeDay": 111,
+    "timeWeek": 179,
     "timeMonth": 168,
     "timeYear": 135,
     "dailyMinutesDown": {}
@@ -202,11 +203,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 187,
-    "timeDay": 272,
-    "timeWeek": 253,
-    "timeMonth": 272,
-    "timeYear": 192,
+    "time": 188,
+    "timeDay": 373,
+    "timeWeek": 282,
+    "timeMonth": 271,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2025-12-24": 37
     }
@@ -223,12 +224,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 964,
-    "timeDay": 738,
-    "timeWeek": 882,
-    "timeMonth": 830,
+    "timeDay": 812,
+    "timeWeek": 872,
+    "timeMonth": 828,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2025-11-13": 28,
       "2025-11-19": 72
     }
   }
