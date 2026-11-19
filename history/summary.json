@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tram-phap.deno.dev.ico",
     "slug": "tram-deno",
     "status": "down",
-    "uptime": "75.17%",
+    "uptime": "75.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.70%",
+    "uptimeYear": "67.42%",
     "time": 373,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 284,
+    "timeMonth": 297,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2026-11-18": 300,
+      "2026-11-19": 295,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -149,9 +150,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 289,
-    "timeDay": 435,
-    "timeWeek": 361,
-    "timeMonth": 455,
+    "timeDay": 369,
+    "timeWeek": 346,
+    "timeMonth": 461,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2026-05-08": 115,
@@ -169,12 +170,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 274,
-    "timeWeek": 225,
+    "timeDay": 116,
+    "timeWeek": 203,
     "timeMonth": 208,
-    "timeYear": 143,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -189,9 +190,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 248,
-    "timeWeek": 176,
-    "timeMonth": 168,
+    "timeDay": 81,
+    "timeWeek": 133,
+    "timeMonth": 164,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -207,10 +208,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 313,
-    "timeWeek": 243,
-    "timeMonth": 264,
-    "timeYear": 193,
+    "timeDay": 260,
+    "timeWeek": 241,
+    "timeMonth": 269,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-12-24": 37
     }
@@ -227,12 +228,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 949,
-    "timeDay": 884,
-    "timeWeek": 724,
-    "timeMonth": 821,
+    "timeDay": 1103,
+    "timeWeek": 776,
+    "timeMonth": 829,
     "timeYear": 925,
-    "dailyMinutesDown": {
-      "2025-11-19": 72
-    }
+    "dailyMinutesDown": {}
   }
 ]
